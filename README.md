@@ -1,4 +1,4 @@
-# ⚡ Projet Open Data : Le DPE face à la réalité énergétique
+# Projet Open Data : Diagnostics de Performance Energétique
 
 ## 🎯 Contexte et Objectifs du Projet
 Ce projet de Data Science vise à confronter la théorie à la réalité dans le domaine de l'immobilier et de l'énergie. Le Diagnostic de Performance Énergétique (DPE) prédit la consommation théorique d'un logement (classes de A à G). Mais cette théorie se vérifie-t-elle sur les factures réelles des ménages ?
